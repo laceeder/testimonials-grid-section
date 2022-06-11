@@ -200,9 +200,9 @@
     }
 
     .title {
-      margin: 0 15px 0 18px;
       opacity: 50%;
       color:hsl(0, 0%, 100%);
+      margin: 0 15px 0 18px;
     }
 
     .name, .title, .testimonial-paragraph, .testimonial-header {
