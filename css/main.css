@@ -201,6 +201,8 @@
 
     .title {
       margin: 0 15px 0 18px;
+      opacity: 50%;
+      color:hsl(0, 0%, 100%);
     }
 
     .name, .title, .testimonial-paragraph, .testimonial-header {
@@ -209,11 +211,6 @@
 
     .name, .title, .testimonial-paragraph {
       font-size: 1em;
-    }
-
-    .title {
-      opacity: 50%;
-      color:hsl(0, 0%, 100%);
     }
 
     .testimonial-header {
